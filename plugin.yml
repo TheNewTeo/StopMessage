@@ -1,0 +1,6 @@
+name: StopMessage
+author: TheNewTeo
+version: 1.0.0
+api: ["3.0.0-ALPHA7"]
+main: TheNewTeo\StopMessage\Main
+load: STARTUP
